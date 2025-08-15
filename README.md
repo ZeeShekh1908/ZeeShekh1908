@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hi, I'm Zeenat!
+🎓 Software Engineering Student | Competitive Programmer | Tech Explorer
 
-<!--
-**ZeeShekh1908/ZeeShekh1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently Working On
+- Advanced DSA problems on GeeksforGeeks & Codeforces
+- Full-stack projects with React, Node.js, and APIs
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- System Design, Next.js, AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask Me About
+- Java, Git workflows, debugging, API integration
+
+## ⚒️ Tools & Tech Stack
+`Java` `React.js` `Node.js` `Firebase` `VS Code` `Git` `Google Cloud`
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/zeenat-shekh-207312290/)
+- [Email](mailto:zeenatshekh794@gmail.com)
+
+## 📂 My Projects
+- [GITAAMI](https://gitaami.com/) – AI-powered spiritual platform
+- [Employee Dashboard](https://emp-dashboard-zee.onrender.com/) – Full-stack dashboard for employee management
+- Explore more projects on my [GitHub profile](https://github.com/ZeeShekh1908)
+
+## 📊 GitHub Stats
+![Zeenat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeShekh1908&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeShekh1908&layout=compact)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=ZeeShekh1908&style=flat-square)
