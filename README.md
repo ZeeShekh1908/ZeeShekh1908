@@ -1,4 +1,13 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zeenat+Shekh;Competitive+Programmer;SoSoftware+Engineering+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&size=30
+&pause=1000
+&color=F75C7E
+&center=true
+&vCenter=true
+&width=700
+&lines=Hi%2C+I%27m+Zeenat+Shekh;Software+Engineering+Student;Competitive+Programmer)
+
 
 # 👋 Hi, I'm Zeenat!
 🎓    Software Engineering Student | Competitive Programmer | Tech Explorer
